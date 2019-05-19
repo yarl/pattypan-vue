@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>About</h1>
+    <h1>Validate spreadsheet</h1>
   </div>
 </template>
